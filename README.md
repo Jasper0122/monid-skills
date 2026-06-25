@@ -12,6 +12,7 @@ npx skills add <your-gh-username>/monid-skills
 | Skill | What it does |
 |---|---|
 | [`bookwatch-arb`](skills/bookwatch-arb/SKILL.md) | Cross-venue prediction-market arbitrage scout (Polymarket × Kalshi): matched pairs → drop junk → price both legs → net edge after the official Kalshi fee → ranked table with trust/thin/suspect flags. Read-only / paper. |
+| [`apeguard`](skills/apeguard/SKILL.md) | Crypto launch safety screener — run before you ape in. Verifies the official contract, then checks honeypot / sell-tax / mint authority / ownership / verification / holder concentration / unlocks → AVOID / CAUTION / CLEAR verdict. Read-only; never buys or signs. |
 
 ## Prerequisites
 
