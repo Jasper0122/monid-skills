@@ -1,12 +1,10 @@
-# Bookwatch Arb Skill — Full Documentation
-
-```yaml
 ---
 name: bookwatch-arb
 version: 0.1.0
 description: A cross-venue prediction-market arbitrage scout. Finds the same real-world question priced differently on Polymarket vs Kalshi, prices both legs, computes net edge after the official Kalshi fee, and returns a compact ranked table with trust/thin/suspect flags. Read-only / paper — never places real orders. Use when asked to "find arbs", "套利", "scan odds", "cross-venue arb", "Polymarket vs Kalshi", "book watch", or "arbitrage scan".
 ---
-```
+
+# Bookwatch Arb Skill — Full Documentation
 
 ## Overview
 
